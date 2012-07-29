@@ -1,0 +1,14 @@
+***START getPath:Richard'sTown
+ShowPoints Inputs:
+Source Points    :Richard'sTown:477:250
+Radius           :100
+Results          :
+AshokNagar=>451.0:205.0
+Richard'sTown=>477.0:250.0
+BangaloreEast=>498.0:278.0
+Cox_town=>511.0:298.0
+CleavelandTown=>471.0:274.0
+St_John_Hill=>475.0:334.0
+Madigarpalaya=>393.0:260.0
+Bangalore_cantt=>410.0:309.0
+***END getPath

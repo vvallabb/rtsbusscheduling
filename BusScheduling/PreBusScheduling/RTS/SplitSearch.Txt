@@ -1,0 +1,8 @@
+Split Search Module
+Searches for different services that can be present within the given radium (from the source)
+
+Services:ATM,Hotel,Mall,Hospital
+
+Optimal-path
+and 
+available entities can be seen using this GUI

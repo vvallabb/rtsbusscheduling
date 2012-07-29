@@ -1,0 +1,1074 @@
+***START getPath:Mattekere
+ShowPoints Inputs:
+Source Points    :Mattekere:311:111
+Radius           :200
+Results          :
+***START getPath:Hebbal
+ShowPoints Inputs:
+Source Points    :Hebbal:379:113
+Radius           :200
+Results          :
+***START getPath:TumkurRoad
+ShowPoints Inputs:
+Source Points    :TumkurRoad:176:163
+Radius           :200
+Results          :
+***START getPath:BellaryRoad
+ShowPoints Inputs:
+Source Points    :BellaryRoad:357:189
+Radius           :200
+Results          :
+***START getPath:AshokNagar
+ShowPoints Inputs:
+Source Points    :AshokNagar:451:205
+Radius           :200
+Results          :
+***START getPath:Mattadahalli
+ShowPoints Inputs:
+Source Points    :Mattadahalli:355:224
+Radius           :200
+Results          :
+***START getPath:SankeyTank
+ShowPoints Inputs:
+Source Points    :SankeyTank:312:226
+Radius           :200
+Results          :
+***START getPath:IISc
+ShowPoints Inputs:
+Source Points    :IISc:308:204
+Radius           :200
+Results          :
+***START getPath:GovtSoapFactory
+ShowPoints Inputs:
+Source Points    :GovtSoapFactory:234:224
+Radius           :200
+Results          :
+***START getPath:SubahdarChhatamRoad
+ShowPoints Inputs:
+Source Points    :SubahdarChhatamRoad:264:237
+Radius           :200
+Results          :
+***START getPath:MilkColony
+ShowPoints Inputs:
+Source Points    :MilkColony:233:249
+Radius           :200
+Results          :
+***START getOptimalPath:MilkColony
+ShowPath Inputs:
+Source Points    :MilkColony:233:249
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Malleshweram
+ShowPoints Inputs:
+Source Points    :Malleshweram:300:248
+Radius           :200
+Results          :
+***START getOptimalPath:Malleshweram
+ShowPath Inputs:
+Source Points    :Malleshweram:300:248
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Madigarpalaya
+ShowPoints Inputs:
+Source Points    :Madigarpalaya:393:260
+Radius           :200
+Results          :
+***START getPath:BangaloreEast
+ShowPoints Inputs:
+Source Points    :BangaloreEast:498:278
+Radius           :200
+Results          :
+***START getPath:Boyapalya
+ShowPoints Inputs:
+Source Points    :Boyapalya:177:277
+Radius           :200
+Results          :
+***START getOptimalPath:Boyapalya
+ShowPath Inputs:
+Source Points    :Boyapalya:177:277
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:CleavelandTown
+ShowPoints Inputs:
+Source Points    :CleavelandTown:471:274
+Radius           :200
+Results          :
+***START getPath:venkatarangiengar_rd
+ShowPoints Inputs:
+Source Points    :venkatarangiengar_rd:302:277
+Radius           :200
+Results          :
+***START getOptimalPath:venkatarangiengar_rd
+ShowPath Inputs:
+Source Points    :venkatarangiengar_rd:302:277
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Second_LinkRoad
+ShowPoints Inputs:
+Source Points    :Second_LinkRoad:278:281
+Radius           :200
+Results          :
+***START getOptimalPath:Second_LinkRoad
+ShowPath Inputs:
+Source Points    :Second_LinkRoad:278:281
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:RajajiNagar
+ShowPoints Inputs:
+Source Points    :RajajiNagar:227:289
+Radius           :200
+Results          :
+***START getOptimalPath:RajajiNagar
+ShowPath Inputs:
+Source Points    :RajajiNagar:227:289
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:ErrappaBlock
+ShowPoints Inputs:
+Source Points    :ErrappaBlock:277:304
+Radius           :200
+Results          :
+***START getOptimalPath:ErrappaBlock
+ShowPath Inputs:
+Source Points    :ErrappaBlock:277:304
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Cox_town
+ShowPoints Inputs:
+Source Points    :Cox_town:511:298
+Radius           :200
+Results          :
+***START getPath:Bangalore_cantt
+ShowPoints Inputs:
+Source Points    :Bangalore_cantt:410:309
+Radius           :200
+Results          :
+***START getOptimalPath:Bangalore_cantt
+ShowPath Inputs:
+Source Points    :Bangalore_cantt:410:309
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:St_John_Hill
+ShowPoints Inputs:
+Source Points    :St_John_Hill:475:334
+Radius           :200
+Results          :
+***START getPath:Nehru_Nagar
+ShowPoints Inputs:
+Source Points    :Nehru_Nagar:314:334
+Radius           :200
+Results          :
+***START getOptimalPath:Nehru_Nagar
+ShowPath Inputs:
+Source Points    :Nehru_Nagar:314:334
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Odderpalya
+ShowPoints Inputs:
+Source Points    :Odderpalya:168:338
+Radius           :200
+Results          :
+***START getOptimalPath:Odderpalya
+ShowPath Inputs:
+Source Points    :Odderpalya:168:338
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Dayanand_Nagar
+ShowPoints Inputs:
+Source Points    :Dayanand_Nagar:215:344
+Radius           :200
+Results          :
+***START getOptimalPath:Dayanand_Nagar
+ShowPath Inputs:
+Source Points    :Dayanand_Nagar:215:344
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Vasant_Nagar
+ShowPoints Inputs:
+Source Points    :Vasant_Nagar:378:348
+Radius           :200
+Results          :
+***START getOptimalPath:Vasant_Nagar
+ShowPath Inputs:
+Source Points    :Vasant_Nagar:378:348
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Bhashyam_Nagar
+ShowPoints Inputs:
+Source Points    :Bhashyam_Nagar:256:357
+Radius           :200
+Results          :
+***START getOptimalPath:Bhashyam_Nagar
+ShowPath Inputs:
+Source Points    :Bhashyam_Nagar:256:357
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Indira_Nagar
+ShowPoints Inputs:
+Source Points    :Indira_Nagar:590:351
+Radius           :200
+Results          :
+***START getPath:Gandhi_Nagar
+ShowPoints Inputs:
+Source Points    :Gandhi_Nagar:318:368
+Radius           :200
+Results          :
+***START getOptimalPath:Gandhi_Nagar
+ShowPath Inputs:
+Source Points    :Gandhi_Nagar:318:368
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Magadi_Road
+ShowPoints Inputs:
+Source Points    :Magadi_Road:165:371
+Radius           :200
+Results          :
+***START getOptimalPath:Magadi_Road
+ShowPath Inputs:
+Source Points    :Magadi_Road:165:371
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Cubbon_Park
+ShowPoints Inputs:
+Source Points    :Cubbon_Park:409:363
+Radius           :200
+Results          :
+***START getOptimalPath:Cubbon_Park
+ShowPath Inputs:
+Source Points    :Cubbon_Park:409:363
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Majestic
+ShowPoints Inputs:
+Source Points    :Majestic:275:387
+Radius           :200
+Results          :
+***START getOptimalPath:Majestic
+ShowPath Inputs:
+Source Points    :Majestic:275:387
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Hoshalli
+ShowPoints Inputs:
+Source Points    :Hoshalli:211:394
+Radius           :200
+Results          :
+***START getOptimalPath:Hoshalli
+ShowPath Inputs:
+Source Points    :Hoshalli:211:394
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Brigade_Road
+ShowPoints Inputs:
+Source Points    :Brigade_Road:457:383
+Radius           :200
+Results          :
+***START getOptimalPath:Brigade_Road
+ShowPath Inputs:
+Source Points    :Brigade_Road:457:383
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Avenue_Road
+ShowPoints Inputs:
+Source Points    :Avenue_Road:345:395
+Radius           :200
+Results          :
+***START getOptimalPath:Avenue_Road
+ShowPath Inputs:
+Source Points    :Avenue_Road:345:395
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Trinity_Chruch
+ShowPoints Inputs:
+Source Points    :Trinity_Chruch:506:402
+Radius           :200
+Results          :
+***START getPath:Kantirawa_Stadium
+ShowPoints Inputs:
+Source Points    :Kantirawa_Stadium:394:409
+Radius           :200
+Results          :
+***START getOptimalPath:Kantirawa_Stadium
+ShowPath Inputs:
+Source Points    :Kantirawa_Stadium:394:409
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Richmond_Nagar
+ShowPoints Inputs:
+Source Points    :Richmond_Nagar:451:406
+Radius           :200
+Results          :
+***START getOptimalPath:Richmond_Nagar
+ShowPath Inputs:
+Source Points    :Richmond_Nagar:451:406
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Victoria_Road
+ShowPoints Inputs:
+Source Points    :Victoria_Road:502:430
+Radius           :200
+Results          :
+***START getPath:Mission_Road
+ShowPoints Inputs:
+Source Points    :Mission_Road:366:434
+Radius           :200
+Results          :
+***START getOptimalPath:Mission_Road
+ShowPath Inputs:
+Source Points    :Mission_Road:366:434
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:City_Market
+ShowPoints Inputs:
+Source Points    :City_Market:326:440
+Radius           :200
+Results          :
+***START getOptimalPath:City_Market
+ShowPath Inputs:
+Source Points    :City_Market:326:440
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Chamrajpet
+ShowPoints Inputs:
+Source Points    :Chamrajpet:295:439
+Radius           :200
+Results          :
+***START getOptimalPath:Chamrajpet
+ShowPath Inputs:
+Source Points    :Chamrajpet:295:439
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Shanti_Nagar
+ShowPoints Inputs:
+Source Points    :Shanti_Nagar:400:450
+Radius           :200
+Results          :
+***START getOptimalPath:Shanti_Nagar
+ShowPath Inputs:
+Source Points    :Shanti_Nagar:400:450
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Azad_nagar
+ShowPoints Inputs:
+Source Points    :Azad_nagar:254:453
+Radius           :200
+Results          :
+***START getOptimalPath:Azad_nagar
+ShowPath Inputs:
+Source Points    :Azad_nagar:254:453
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Agram
+ShowPoints Inputs:
+Source Points    :Agram:544:450
+Radius           :200
+Results          :
+***START getPath:Domlur
+ShowPoints Inputs:
+Source Points    :Domlur:591:454
+Radius           :200
+Results          :
+***START getPath:BapujiNagar
+ShowPoints Inputs:
+Source Points    :BapujiNagar:213:471
+Radius           :200
+Results          :
+***START getOptimalPath:BapujiNagar
+ShowPath Inputs:
+Source Points    :BapujiNagar:213:471
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:LalBagh_Fort_Road
+ShowPoints Inputs:
+Source Points    :LalBagh_Fort_Road:314:468
+Radius           :200
+Results          :
+***START getOptimalPath:LalBagh_Fort_Road
+ShowPath Inputs:
+Source Points    :LalBagh_Fort_Road:314:468
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:KampeGuda_Nagar
+ShowPoints Inputs:
+Source Points    :KampeGuda_Nagar:286:505
+Radius           :200
+Results          :
+***START getOptimalPath:KampeGuda_Nagar
+ShowPath Inputs:
+Source Points    :KampeGuda_Nagar:286:505
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Nitsarda_Road
+ShowPoints Inputs:
+Source Points    :Nitsarda_Road:471:474
+Radius           :200
+Results          :
+***START getPath:Annepalya
+ShowPoints Inputs:
+Source Points    :Annepalya:442:490
+Radius           :200
+Results          :
+***START getOptimalPath:Annepalya
+ShowPath Inputs:
+Source Points    :Annepalya:442:490
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:HombeGowda_Nagar
+ShowPoints Inputs:
+Source Points    :HombeGowda_Nagar:382:491
+Radius           :200
+Results          :
+***START getOptimalPath:HombeGowda_Nagar
+ShowPath Inputs:
+Source Points    :HombeGowda_Nagar:382:491
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Mysore_Rd
+ShowPoints Inputs:
+Source Points    :Mysore_Rd:166:498
+Radius           :200
+Results          :
+***START getOptimalPath:Mysore_Rd
+ShowPath Inputs:
+Source Points    :Mysore_Rd:166:498
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Vivekanagar
+ShowPoints Inputs:
+Source Points    :Vivekanagar:520:493
+Radius           :200
+Results          :
+***START getPath:GandhiBazar
+ShowPoints Inputs:
+Source Points    :GandhiBazar:313:505
+Radius           :200
+Results          :
+***START getOptimalPath:GandhiBazar
+ShowPath Inputs:
+Source Points    :GandhiBazar:313:505
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:LalBaghGardens
+ShowPoints Inputs:
+Source Points    :LalBaghGardens:338:504
+Radius           :200
+Results          :
+***START getOptimalPath:LalBaghGardens
+ShowPath Inputs:
+Source Points    :LalBaghGardens:338:504
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Grass_Farm
+ShowPoints Inputs:
+Source Points    :Grass_Farm:572:512
+Radius           :200
+Results          :
+***START getPath:KrishnaPark
+ShowPoints Inputs:
+Source Points    :KrishnaPark:337:526
+Radius           :200
+Results          :
+***START getOptimalPath:KrishnaPark
+ShowPath Inputs:
+Source Points    :KrishnaPark:337:526
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:VaniVilasRoad
+ShowPoints Inputs:
+Source Points    :VaniVilasRoad:313:528
+Radius           :200
+Results          :
+***START getOptimalPath:VaniVilasRoad
+ShowPath Inputs:
+Source Points    :VaniVilasRoad:313:528
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Siddapura
+ShowPoints Inputs:
+Source Points    :Siddapura:360:527
+Radius           :200
+Results          :
+***START getOptimalPath:Siddapura
+ShowPath Inputs:
+Source Points    :Siddapura:360:527
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:HanumantaNagar
+ShowPoints Inputs:
+Source Points    :HanumantaNagar:260:545
+Radius           :200
+Results          :
+***START getOptimalPath:HanumantaNagar
+ShowPath Inputs:
+Source Points    :HanumantaNagar:260:545
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:BullTemple
+ShowPoints Inputs:
+Source Points    :BullTemple:291:552
+Radius           :200
+Results          :
+***START getOptimalPath:BullTemple
+ShowPath Inputs:
+Source Points    :BullTemple:291:552
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:AnnekaiRoad
+ShowPoints Inputs:
+Source Points    :AnnekaiRoad:428:553
+Radius           :200
+Results          :
+***START getPath:HosurRoad
+ShowPoints Inputs:
+Source Points    :HosurRoad:471:568
+Radius           :200
+Results          :
+***START getPath:Banshankari
+ShowPoints Inputs:
+Source Points    :Banshankari:151:581
+Radius           :200
+Results          :
+***START getPath:3rdMainRd
+ShowPoints Inputs:
+Source Points    :3rdMainRd:340:593
+Radius           :200
+Results          :
+***START getPath:JayaNagar
+ShowPoints Inputs:
+Source Points    :JayaNagar:366:591
+Radius           :200
+Results          :
+***START getPath:sudduguntapalya
+ShowPoints Inputs:
+Source Points    :sudduguntapalya:424:590
+Radius           :200
+Results          :
+***START getPath:sarakki_agrahar
+ShowPoints Inputs:
+Source Points    :sarakki_agrahar:364:634
+Radius           :200
+Results          :
+***START getPath:KanakPuraRd
+ShowPoints Inputs:
+Source Points    :KanakPuraRd:314:633
+Radius           :200
+Results          :
+***START getPath:BannerGattaRd
+ShowPoints Inputs:
+Source Points    :BannerGattaRd:425:733
+Radius           :200
+Results          :
+***START getPath:ElectronicsCity
+ShowPoints Inputs:
+Source Points    :ElectronicsCity:601:736
+Radius           :200
+Results          :
+***START getOptimalPath:ElectronicsCity
+ShowPath Inputs:
+Source Points    :ElectronicsCity:601:736
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+ElectronicsCity=>601.0:736.0
+BannerGattaRd=>425.0:733.0
+***END getPath
+***START getPath:Mattekere
+ShowPoints Inputs:
+Source Points    :Mattekere:311:111
+Radius           :200
+Results          :
+***START getPath:Hebbal
+ShowPoints Inputs:
+Source Points    :Hebbal:379:113
+Radius           :200
+Results          :
+***START getPath:TumkurRoad
+ShowPoints Inputs:
+Source Points    :TumkurRoad:176:163
+Radius           :200
+Results          :
+***START getPath:BellaryRoad
+ShowPoints Inputs:
+Source Points    :BellaryRoad:357:189
+Radius           :200
+Results          :
+***START getPath:AshokNagar
+ShowPoints Inputs:
+Source Points    :AshokNagar:451:205
+Radius           :200
+Results          :
+***START getPath:Mattadahalli
+ShowPoints Inputs:
+Source Points    :Mattadahalli:355:224
+Radius           :200
+Results          :
+***START getPath:SankeyTank
+ShowPoints Inputs:
+Source Points    :SankeyTank:312:226
+Radius           :200
+Results          :
+***START getPath:IISc
+ShowPoints Inputs:
+Source Points    :IISc:308:204
+Radius           :200
+Results          :
+***START getPath:GovtSoapFactory
+ShowPoints Inputs:
+Source Points    :GovtSoapFactory:234:224
+Radius           :200
+Results          :
+***START getPath:SubahdarChhatamRoad
+ShowPoints Inputs:
+Source Points    :SubahdarChhatamRoad:264:237
+Radius           :200
+Results          :
+***START getPath:MilkColony
+ShowPoints Inputs:
+Source Points    :MilkColony:233:249
+Radius           :200
+Results          :
+***START getOptimalPath:MilkColony
+ShowPath Inputs:
+Source Points    :MilkColony:233:249
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Malleshweram
+ShowPoints Inputs:
+Source Points    :Malleshweram:300:248
+Radius           :200
+Results          :
+***START getOptimalPath:Malleshweram
+ShowPath Inputs:
+Source Points    :Malleshweram:300:248
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Madigarpalaya
+ShowPoints Inputs:
+Source Points    :Madigarpalaya:393:260
+Radius           :200
+Results          :
+***START getPath:BangaloreEast
+ShowPoints Inputs:
+Source Points    :BangaloreEast:498:278
+Radius           :200
+Results          :
+***START getPath:Boyapalya
+ShowPoints Inputs:
+Source Points    :Boyapalya:177:277
+Radius           :200
+Results          :
+***START getOptimalPath:Boyapalya
+ShowPath Inputs:
+Source Points    :Boyapalya:177:277
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:CleavelandTown
+ShowPoints Inputs:
+Source Points    :CleavelandTown:471:274
+Radius           :200
+Results          :
+***START getPath:venkatarangiengar_rd
+ShowPoints Inputs:
+Source Points    :venkatarangiengar_rd:302:277
+Radius           :200
+Results          :
+***START getOptimalPath:venkatarangiengar_rd
+ShowPath Inputs:
+Source Points    :venkatarangiengar_rd:302:277
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Second_LinkRoad
+ShowPoints Inputs:
+Source Points    :Second_LinkRoad:278:281
+Radius           :200
+Results          :
+***START getOptimalPath:Second_LinkRoad
+ShowPath Inputs:
+Source Points    :Second_LinkRoad:278:281
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:RajajiNagar
+ShowPoints Inputs:
+Source Points    :RajajiNagar:227:289
+Radius           :200
+Results          :
+***START getOptimalPath:RajajiNagar
+ShowPath Inputs:
+Source Points    :RajajiNagar:227:289
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:ErrappaBlock
+ShowPoints Inputs:
+Source Points    :ErrappaBlock:277:304
+Radius           :200
+Results          :
+***START getOptimalPath:ErrappaBlock
+ShowPath Inputs:
+Source Points    :ErrappaBlock:277:304
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Cox_town
+ShowPoints Inputs:
+Source Points    :Cox_town:511:298
+Radius           :200
+Results          :
+***START getPath:Bangalore_cantt
+ShowPoints Inputs:
+Source Points    :Bangalore_cantt:410:309
+Radius           :200
+Results          :
+***START getOptimalPath:Bangalore_cantt
+ShowPath Inputs:
+Source Points    :Bangalore_cantt:410:309
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:St_John_Hill
+ShowPoints Inputs:
+Source Points    :St_John_Hill:475:334
+Radius           :200
+Results          :
+***START getPath:Nehru_Nagar
+ShowPoints Inputs:
+Source Points    :Nehru_Nagar:314:334
+Radius           :200
+Results          :
+***START getOptimalPath:Nehru_Nagar
+ShowPath Inputs:
+Source Points    :Nehru_Nagar:314:334
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Odderpalya
+ShowPoints Inputs:
+Source Points    :Odderpalya:168:338
+Radius           :200
+Results          :
+***START getOptimalPath:Odderpalya
+ShowPath Inputs:
+Source Points    :Odderpalya:168:338
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Dayanand_Nagar
+ShowPoints Inputs:
+Source Points    :Dayanand_Nagar:215:344
+Radius           :200
+Results          :
+***START getOptimalPath:Dayanand_Nagar
+ShowPath Inputs:
+Source Points    :Dayanand_Nagar:215:344
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Vasant_Nagar
+ShowPoints Inputs:
+Source Points    :Vasant_Nagar:378:348
+Radius           :200
+Results          :
+***START getOptimalPath:Vasant_Nagar
+ShowPath Inputs:
+Source Points    :Vasant_Nagar:378:348
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Bhashyam_Nagar
+ShowPoints Inputs:
+Source Points    :Bhashyam_Nagar:256:357
+Radius           :200
+Results          :
+***START getOptimalPath:Bhashyam_Nagar
+ShowPath Inputs:
+Source Points    :Bhashyam_Nagar:256:357
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Indira_Nagar
+ShowPoints Inputs:
+Source Points    :Indira_Nagar:590:351
+Radius           :200
+Results          :
+***START getPath:Gandhi_Nagar
+ShowPoints Inputs:
+Source Points    :Gandhi_Nagar:318:368
+Radius           :200
+Results          :
+***START getOptimalPath:Gandhi_Nagar
+ShowPath Inputs:
+Source Points    :Gandhi_Nagar:318:368
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Magadi_Road
+ShowPoints Inputs:
+Source Points    :Magadi_Road:165:371
+Radius           :200
+Results          :
+***START getOptimalPath:Magadi_Road
+ShowPath Inputs:
+Source Points    :Magadi_Road:165:371
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Cubbon_Park
+ShowPoints Inputs:
+Source Points    :Cubbon_Park:409:363
+Radius           :200
+Results          :
+***START getOptimalPath:Cubbon_Park
+ShowPath Inputs:
+Source Points    :Cubbon_Park:409:363
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Majestic
+ShowPoints Inputs:
+Source Points    :Majestic:275:387
+Radius           :200
+Results          :
+***START getOptimalPath:Majestic
+ShowPath Inputs:
+Source Points    :Majestic:275:387
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Hoshalli
+ShowPoints Inputs:
+Source Points    :Hoshalli:211:394
+Radius           :200
+Results          :
+***START getOptimalPath:Hoshalli
+ShowPath Inputs:
+Source Points    :Hoshalli:211:394
+Radius           :200
+entity1          :ATM
+entity2          :HOTEL
+entity3          :HOSPITAL
+entity4          :MALL
+Results          :
+***START getPath:Brigade_Road
+ShowPoints Inputs:
+Source Points    :Brigade_Road:457:383
+Radius           :200
+Results          :

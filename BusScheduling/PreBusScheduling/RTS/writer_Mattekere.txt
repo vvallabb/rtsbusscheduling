@@ -1,0 +1,48 @@
+***START getOptimalPath:Mattekere
+ShowPath Inputs:
+Source Points    :Mattekere:311:111
+Radius           :90
+entity1          :ATM
+entity2          :ATM
+entity3          :MALL
+entity4          :ATM
+Results          :
+311:111=>259:95
+259:95=>259:95
+259:95=>259:95
+259:95=>259:95
+0:0
+Cost: 84
+***END getOptimalPath
+***START getOptimalPath:Mattekere
+ShowPath Inputs:
+Source Points    :Mattekere:311:111
+Radius           :123
+entity1          :ATM
+entity2          :ATM
+entity3          :MALL
+entity4          :ATM
+Results          :
+311:111=>259:95
+259:95=>259:95
+259:95=>259:95
+259:95=>259:95
+0:0
+Cost: 84
+***END getOptimalPath
+***START getOptimalPath:Mattekere
+ShowPath Inputs:
+Source Points    :Mattekere:311:111
+Radius           :123
+entity1          :ATM
+entity2          :ATM
+entity3          :MALL
+entity4          :ATM
+Results          :
+311:111=>259:95
+259:95=>259:95
+259:95=>259:95
+259:95=>259:95
+0:0
+Cost: 84
+***END getOptimalPath
